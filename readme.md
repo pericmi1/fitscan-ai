@@ -102,7 +102,7 @@ Final test accuracy: 99.7% (only 7 errors out of 2,099 test images)
 
 ## Links
 
-- **App (HuggingFace Space):** https://huggingface.co/spaces/perimi1/fitscan-ai
+- **App (HuggingFace Space):** https://huggingface.co/spaces/pericmi1/fitscan
 - **ML Model:** saved as calories_model.pkl (XGBoost)
 - **CV Model:** saved as best_cv_model.keras (EfficientNetB0)
 - **GitHub Repository:** https://github.com/pericmi1/fitscan-ai
